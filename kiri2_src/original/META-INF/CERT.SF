@@ -1,0 +1,322 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: XxDxulxH5tpNYdfYX0ytR/ryhck=
+Created-By: 1.0 (Android)
+
+Name: assets/ui/help/MouseModeTips.csb
+SHA1-Digest: /9nxz3FJ8KjCLg19fBg/JDPGSo0=
+
+Name: assets/img/touch1.png
+SHA1-Digest: j9El6V8T+wi1EiPcp+Q+7XqsIts=
+
+Name: assets/img/Cancel_Press.png
+SHA1-Digest: xoW4ZoxFSpz8j2XkaoTJqPx1hXI=
+
+Name: assets/default.cur
+SHA1-Digest: bzZ5g2FbDVyIjSVBzCblg08o3Rw=
+
+Name: assets/ui/NaviBarWithMenu.csb
+SHA1-Digest: oGflTAydWHLQCnkNZtNGq3y49/0=
+
+Name: assets/ui/comctrl/SeperateItem.csb
+SHA1-Digest: aKw/fn3E++q/Ej6giJ9YCUfuPH8=
+
+Name: assets/ui/MediaPlayerFoot.csb
+SHA1-Digest: EaJxqB/H/fI7AgHg1xA5//Li+VA=
+
+Name: assets/ui/MenuList.csb
+SHA1-Digest: lsDnQJgQG/K7H31gPZnx0LVOAS0=
+
+Name: assets/ui/comctrl/SubDirItem.csb
+SHA1-Digest: Vr4M68flS0FB9NYfbV2f1jMtPfQ=
+
+Name: assets/img/back_icon.png
+SHA1-Digest: RfmIrS0M6BqvecKCfXuSnel4EVk=
+
+Name: assets/ui/SelectListItem.csb
+SHA1-Digest: e6e4fw16VxVGxyge1bD48sL9x80=
+
+Name: assets/img/back_btn_off.png
+SHA1-Digest: dNqaj4iXlNsk4K1lcr4YIWb1nPg=
+
+Name: assets/img/CheckBox_Press.png
+SHA1-Digest: TRbNq5m7zG2fRyO1EUGyQP+UYRw=
+
+Name: assets/Default/Slider_PressBar.png
+SHA1-Digest: zAAsW/i6QByh9Se3ZyZV9109KkI=
+
+Name: lib/armeabi-v7a/libSDL2.so
+SHA1-Digest: +6kCA0mD2sa/6Ih17m0xVcFW2UM=
+
+Name: assets/ui/KeySelect.csb
+SHA1-Digest: jyF/sSqNe+F2m8CY7F1oI0scnkU=
+
+Name: assets/ui/WinMgrOverlay.csb
+SHA1-Digest: w+Kd2pBBrLL9CdL7GRNJGmOpGWs=
+
+Name: assets/img/mouse_left_btn.png
+SHA1-Digest: STlMOi2ecH03sOEEUzm80SD2vck=
+
+Name: lib/armeabi-v7a/libgame.so
+SHA1-Digest: 7XP38csBlnUYhzmCVRxJmhnqnWk=
+
+Name: assets/img/syssetting_btn_ff.png
+SHA1-Digest: pH3felMFAXYHrMODZ3ruN6NkSqo=
+
+Name: assets/ui/FileManageMenu.csb
+SHA1-Digest: 3XLTbj4zoOW6KJe6irjHgueBLdo=
+
+Name: assets/ui/ArchiveRepacker.csb
+SHA1-Digest: qHD+YIu1Qddav8W6WHUvf+rDwS8=
+
+Name: resources.arsc
+SHA1-Digest: 3GPdckle1wb4nAccS84o5shf5CM=
+
+Name: assets/img/gray.png
+SHA1-Digest: yGwUGSnncf9eWxLzHsZKbYwS35k=
+
+Name: assets/img/exit_icon.png
+SHA1-Digest: tq1G151sMIOuunynHRaVTBrXRgQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: kiiE+J2oVHMSCST6AP2ioxxZz7Y=
+
+Name: assets/Default/Button_Press.png
+SHA1-Digest: zldJFp2H+mJVgLdNi5SUk+Cuq+8=
+
+Name: assets/img/windows_icon.png
+SHA1-Digest: SkOFAn9waYNRPJCWLe/H+V5Ue90=
+
+Name: assets/ui/FileItem.csb
+SHA1-Digest: NWeqVcgGmZKUqwaeTknGy0RGfdQ=
+
+Name: assets/Default/AppIcon/Icon_72.png
+SHA1-Digest: PTG6VNwq0t0DQjbLMPx8Bcmhl6Q=
+
+Name: res/drawable-hdpi-v4/handle_down.9.png
+SHA1-Digest: 4hTJ4dwCQ5RLcKEfcHD5RMYAF0Q=
+
+Name: assets/img/keyboard_icon.png
+SHA1-Digest: 9bQkxeLtgSJgdDhU0udVQjs2i84=
+
+Name: assets/Default/SliderNode_Normal.png
+SHA1-Digest: 2gF1q8qswaaw+HJbT40icTabl/c=
+
+Name: lib/arm64-v8a/libSDL2.so
+SHA1-Digest: X1npSmjBgOnybpIx2RZSeN6X78A=
+
+Name: assets/locale/ja_jp.xml
+SHA1-Digest: 6ah80VwynHnWOAGo+ZRcLf53D7k=
+
+Name: assets/DroidSansFallback.ttf
+SHA1-Digest: 7eRDzO6xkMaTAAE8tbeEj9lwREk=
+
+Name: assets/img/mouse_2btn.png
+SHA1-Digest: KjzbMXlDhAcKkBHAjTmpEKyD/FA=
+
+Name: assets/img/mouse_right_btn.png
+SHA1-Digest: qPyhArAZim0l/dECtWNFob6FZnk=
+
+Name: lib/arm64-v8a/libgame.so
+SHA1-Digest: 5/UvRdAbxIBT9rTpA548anYRcOI=
+
+Name: assets/ui/CheckListDialog.csb
+SHA1-Digest: XrzB9QQxEBeBCg1mrFiNUrwldIw=
+
+Name: assets/locale/zh_cn.xml
+SHA1-Digest: d1LGb49KzwGsOY6F/2/q1WPnOHk=
+
+Name: assets/ui/TableView.csb
+SHA1-Digest: DRFgVfcT4NQ6APiH+GV05haHX6w=
+
+Name: assets/ui/BottomBarTextInput.csb
+SHA1-Digest: eo5rILTHoGrEo1Z2SgjgudRwBkg=
+
+Name: lib/armeabi-v7a/libffmpeg.so
+SHA1-Digest: EA9svmyhoXfa1q/wxhSU3G77q1A=
+
+Name: assets/ui/ListView.csb
+SHA1-Digest: Nip2KC6gH6pzaYK/eo0QQ02RG1s=
+
+Name: assets/ui/RecentListItem.csb
+SHA1-Digest: TzSP0vqI47YBuLW50kVMMFssdy4=
+
+Name: assets/ui/MainFileSelector.csb
+SHA1-Digest: R/d7j/tAkpUvGwmjis7IcBoJJjk=
+
+Name: assets/ui/TextPairInput.csb
+SHA1-Digest: kWzdYw4ZFJa6wGKsdSlpbiOmouU=
+
+Name: assets/img/back_btn_on.png
+SHA1-Digest: Ts9EhqtpOq+5UPyz4oqcqfu+oQ8=
+
+Name: assets/img/CheckBox_Disable.png
+SHA1-Digest: xas3Xcjn+9CFmc0SrP04JnvUAxo=
+
+Name: assets/ui/comctrl/SliderTextItem.csb
+SHA1-Digest: yXo7vGT00hpylBUXvkODo2kL+NE=
+
+Name: assets/Default/Button_Normal.png
+SHA1-Digest: aoez0uYI3it5GQ3uyc7B3jv8ggA=
+
+Name: assets/img/triangle.png
+SHA1-Digest: MVzUKYWzxtf/KYuLssXA0jzNRvo=
+
+Name: assets/Default/SliderNode_Press.png
+SHA1-Digest: tehRkuJJitcQZA9dOx6ppt3NwRc=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: q9Me/bSkA9HHeK9nHCbqD/IG8x8=
+
+Name: assets/img/circle_arrow_normal.png
+SHA1-Digest: 0kOvcxZEM5C0JqMKaLCNmb6aqYI=
+
+Name: assets/ui/comctrl/CheckBoxItem.csb
+SHA1-Digest: BbtxV88rJ8clxHY/DFcrd55raiE=
+
+Name: res/drawable-hdpi-v4/close.png
+SHA1-Digest: 7lrQf5ltW7XzrSHStqnB4ssocUg=
+
+Name: assets/img/menu_press.png
+SHA1-Digest: 4dNCL9MxuJceslpQ2odePpw8e8g=
+
+Name: assets/img/mouse_icon.png
+SHA1-Digest: sUcvt22WBWI/Rc0BDF+HQlh7eL0=
+
+Name: assets/img/touch2.png
+SHA1-Digest: vn4U1WD9hifm8vFBs3V3nSPBedE=
+
+Name: assets/ui/ProgressBox.csb
+SHA1-Digest: vwkZIl7xTRFFtjws4b2Tp3boNO8=
+
+Name: assets/ui/MediaPlayerNavi.csb
+SHA1-Digest: TBgS+H7BfixDat+LjzAUPD771kM=
+
+Name: assets/img/touch_icon.png
+SHA1-Digest: y7nycXDK1zzYGmq2S9OkKaMigdo=
+
+Name: assets/img/circle_arrow_press.png
+SHA1-Digest: w5wfn4Xj8QmeqwWGiyc7WcaenQo=
+
+Name: assets/ui/comctrl/SliderIconItem.csb
+SHA1-Digest: 4p8A9yDdkBAAQvmq8mdF6Ij/Pfs=
+
+Name: assets/img/syssetting_btn_on.png
+SHA1-Digest: 21bIs7LWQq/OsKMZSyk8ZF8mG64=
+
+Name: assets/ui/BottomBar.csb
+SHA1-Digest: BN5tQfMr6YLMUYExe7OgPHOxteY=
+
+Name: assets/Default/Slider_Back.png
+SHA1-Digest: Tk9NVeDnrz4W+5VOQUeav13pLEA=
+
+Name: res/drawable-hdpi-v4/down_ico.png
+SHA1-Digest: YLoIQaGI0Gc9tesnJWuyr119SdA=
+
+Name: res/drawable-hdpi-v4/handle_up.9.png
+SHA1-Digest: FYwqXbozYG0mMpEWEnJm5NX25oA=
+
+Name: assets/img/CheckBoxNode_Normal.png
+SHA1-Digest: 0kizrn4MMPpCIB/L4SHjpbwaMiE=
+
+Name: assets/img/circle_white.png
+SHA1-Digest: l7HpMHSvd7mUGHePepoRGG6DFmo=
+
+Name: assets/img/about_icon.png
+SHA1-Digest: zKqfx0Z7aTNpDK59sOYlyyzCO70=
+
+Name: assets/img/Cancel_Normal.png
+SHA1-Digest: Pv9p6zgkAk8nRtehOcxMIBIpxlA=
+
+Name: lib/arm64-v8a/libffmpeg.so
+SHA1-Digest: E2C4s2LK0mIN+CRUJU6mNSlHfF0=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: RCmXJwVpY+4Es5CRw+ODuFmZaDk=
+
+Name: assets/img/menu_handler.png
+SHA1-Digest: cyxcR+HOKM5yCQLBnUbs5CKQukA=
+
+Name: assets/ui/help/ScreenModeTips.csb
+SHA1-Digest: R60OUsJHgk/ZvduAr3tPkFc25EA=
+
+Name: assets/locale/zh_tw.xml
+SHA1-Digest: rUbW4nDPTkMVW3vJMBAWa/COu/c=
+
+Name: res/drawable-hdpi-v4/sd_operate_step.png
+SHA1-Digest: 06KB5awiG/bSEEcDPZGaixIbUwg=
+
+Name: res/drawable-hdpi-v4/title_bg.png
+SHA1-Digest: wiYL6p9Q0ocnOMj6CxS9xEBqCSI=
+
+Name: assets/img/empty.png
+SHA1-Digest: hagF893ZA/cltpDHlOUcquCISQc=
+
+Name: assets/ui/comctrl/SelectListItem.csb
+SHA1-Digest: xoFdgO8ODdktkjdheplPOprNXoM=
+
+Name: assets/ui/help/TouchModeTips.csb
+SHA1-Digest: JxLdu3gAKMnVprL/cN99MzIoBwM=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: JcSiuEdMJ98nJCPQ7F7FT2IwlMA=
+
+Name: assets/ui/help/AllTips.csb
+SHA1-Digest: 4yrV+A8avhEGAzaVW8NYbc7pcqM=
+
+Name: assets/ui/ListItem.csb
+SHA1-Digest: I7Wzx4vIwMUe5st+wFe6MvFBfTY=
+
+Name: assets/img/circle_arrow.png
+SHA1-Digest: d9ieqvMcJfR8DlVN6dLsgk/uMnU=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: wFkTA0nLJYrapdHJDVOryp4sFkk=
+
+Name: assets/img/CheckBox_Normal.png
+SHA1-Digest: 2JSh/QaxSBRBydC2hKneitD2s48=
+
+Name: assets/ui/NaviBar.csb
+SHA1-Digest: 36PKQt6wnlx0rKMOT1f+KQNJocA=
+
+Name: assets/Default/Button_Disable.png
+SHA1-Digest: DaQ/6TgSBe5X5QIk/Qqg5DfmRP4=
+
+Name: assets/locale/en_us.xml
+SHA1-Digest: FbY93CEPAshyMEWCbD/coTBzNkE=
+
+Name: res/drawable-hdpi-v4/item_bg.9.png
+SHA1-Digest: JQeBrru3qhZ9CrJ7TaRSak9V7Qs=
+
+Name: assets/img/CheckBoxNode_Press.png
+SHA1-Digest: vanj6e6MVfa2iuxf0ecnr25rp3M=
+
+Name: assets/img/right_triangle.png
+SHA1-Digest: VRW7VshC0XZqBUC7gIiYLB64DBE=
+
+Name: assets/ui/GameMenu.csb
+SHA1-Digest: EfhrHPznM6uHQ+0KWmxzX9xqqfY=
+
+Name: assets/ui/MediaPlayerBody.csb
+SHA1-Digest: YQ9VHnLGDD1omB62+Rku+9yJqqo=
+
+Name: assets/Default/SliderNode_Disable.png
+SHA1-Digest: PHlWrg4Bvi6um+R+9apuyvcKJmU=
+
+Name: assets/ui/SelectList.csb
+SHA1-Digest: fjRGT4SJ7aMRtmyEN8KPy1kYguk=
+
+Name: res/raw/kirikiri2.txt
+SHA1-Digest: SdW2QZZyoxecJrtFJf21z0HKpjY=
+
+Name: assets/img/white.png
+SHA1-Digest: 6cvOIxXJqidFe+tdTE2g5BkdSyE=
+
+Name: assets/img/menu_icon.png
+SHA1-Digest: iDRmo5+MN/vDN/sA3vzLXcwsrYs=
+
+Name: assets/ui/MessageBox.csb
+SHA1-Digest: 5Skv+b0UwQqjl5OFVKKuGkEaZGo=
+
+Name: classes.dex
+SHA1-Digest: NeNWUAyPFioGhPsxYnI3loazaX4=
+

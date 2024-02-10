@@ -1,0 +1,21 @@
+version: 2.9.3
+apkFileName: Kirikiroid2_yuri_1.3.9.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 11
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: org.tvp.kirikiri2_yuri_debloated_10309
+versionInfo:
+  versionCode: 68
+  versionName: 1.3.9
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+doNotCompress:
+- resources.arsc
+- png

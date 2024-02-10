@@ -1,0 +1,321 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_25 (Oracle Corporation)
+
+Name: assets/ui/help/MouseModeTips.csb
+SHA-256-Digest: cOIYFZp6GXliNr8MQlb7M+qOuC+XEGOHfprxnBOjQ30=
+
+Name: assets/img/touch1.png
+SHA-256-Digest: 2zlm42eUBYPt4UAjs4Jekz798MiagkCIE03aPDVvtNY=
+
+Name: assets/img/Cancel_Press.png
+SHA-256-Digest: F01f7n39Tl3q7YWtx+w6WzuhtLVI0RP+gZe6QAfL73Y=
+
+Name: assets/default.cur
+SHA-256-Digest: DzWukegygtuJqCEklz13Uszw9z2XpRjK+cAcIi7GqSc=
+
+Name: assets/ui/NaviBarWithMenu.csb
+SHA-256-Digest: viSLkDanzLYWC3p5UoMd+Xp1mbw4SyIrPH48jFqc4OA=
+
+Name: assets/ui/comctrl/SeperateItem.csb
+SHA-256-Digest: CiD0iHbRcLFtDW0FQZZLAzGmu9Mr1Vl85lFwaoP9Hws=
+
+Name: assets/ui/comctrl/SubDirItem.csb
+SHA-256-Digest: wpO18WeGP2DV+ukBgblyCVAlaA4NGJ0tRTP2rmhUh98=
+
+Name: assets/ui/MediaPlayerFoot.csb
+SHA-256-Digest: KKLI2IFBYhUHZhBL7SwnIu6ZfPiQn2RTQBy4jRmbF20=
+
+Name: assets/ui/MenuList.csb
+SHA-256-Digest: glskywLgf5PJBA5hHb7CDdc2nW2dQXghW2zQnwBlqSw=
+
+Name: assets/img/back_icon.png
+SHA-256-Digest: 4xcrBRXjRWkqTGBvrFmt/NgPgwY+dsY0qTZcvAPLRcg=
+
+Name: assets/ui/SelectListItem.csb
+SHA-256-Digest: WlN/DLM0pajhtdDFOKPvKST+1K/3GuyU/FcxD/HZiu4=
+
+Name: assets/img/back_btn_off.png
+SHA-256-Digest: wUmV6lSJrcdT07sP34c0Cne0huRAzGKj3R/pacTRp+Q=
+
+Name: assets/img/CheckBox_Press.png
+SHA-256-Digest: CxveI15JXZizDkPo0XTWyy+x5qcNGcRPurFDyoZDUFE=
+
+Name: assets/Default/Slider_PressBar.png
+SHA-256-Digest: qdNBvDzS0+jhOx6Djs1EmPh+yAs/2TGF5LyPgRXSmtQ=
+
+Name: lib/armeabi-v7a/libSDL2.so
+SHA-256-Digest: khNktwrvs1gU9vugI/cj3DsxrJoOtoc7u+tKBSODEMk=
+
+Name: assets/ui/KeySelect.csb
+SHA-256-Digest: w+927zBHni2s3LsUWWuOKIg6hgkA/sUKyDwDjyB2rCU=
+
+Name: assets/ui/WinMgrOverlay.csb
+SHA-256-Digest: M8qM6KZxL26FM00zqbQVMIccejFv5VH8JtTHAPXxg5M=
+
+Name: lib/armeabi-v7a/libgame.so
+SHA-256-Digest: VWnXNF143JIxhIjAYJYl7TdqFAoCStblgsYBoUw/P0E=
+
+Name: assets/img/mouse_left_btn.png
+SHA-256-Digest: I6ZW44Bn8QLzbAgsF1Q8+h7jSToqC28/PiS5pvigyC8=
+
+Name: assets/img/syssetting_btn_ff.png
+SHA-256-Digest: ieRoJZUfF9cMwGg7ClLmBEFXJ6w24hc0ONWLgYhQzk8=
+
+Name: assets/ui/FileManageMenu.csb
+SHA-256-Digest: ujYalNaAN0nqdEDnRGw5iSDVP3KFEdQz3JZIR7QH6+4=
+
+Name: assets/ui/ArchiveRepacker.csb
+SHA-256-Digest: FAHocc9Yr0PvkD+AIi0GGQJXvs81z57hS5l2vhNzW48=
+
+Name: resources.arsc
+SHA-256-Digest: +3pdd+Tl6wxKqahk08FjE5eFoTE8nW/yEbbLdkHx4IA=
+
+Name: assets/img/gray.png
+SHA-256-Digest: 0q8XQQ5N7jHnRJYQzgm5y3sNEcdwXJRW7vfqQp0EeaY=
+
+Name: assets/img/exit_icon.png
+SHA-256-Digest: D/OnT8cTxRQudUserOEU2LcwLXcmi8y98JaQ0+rVYgs=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: cq/W4Gpr1JCKDY0tirBW6vWNhI0hlSF9sLQSlHeFOAE=
+
+Name: assets/Default/Button_Press.png
+SHA-256-Digest: ounZ/H5kwBNONA4pM1jRJ/YIRb6WSfX1+HaQlKSuQGo=
+
+Name: assets/img/windows_icon.png
+SHA-256-Digest: nnuHxD8d0HHndvJLt/+CsDtWxMDJKU526N4qdtJTAyA=
+
+Name: assets/ui/FileItem.csb
+SHA-256-Digest: hgnIcU3fTK4VcOZPNI1ONkUxg78dI9YhrbqQud+WFSg=
+
+Name: assets/Default/AppIcon/Icon_72.png
+SHA-256-Digest: /6BCoUTRSuw0r9Jd2x3U8LTYoRoZJmXv5KZ3meSV+yo=
+
+Name: res/drawable-hdpi-v4/handle_down.9.png
+SHA-256-Digest: xpJz+DXstULJPg+VmJrw3ncLZ6sVxdmnI9kjio+8+Lg=
+
+Name: assets/img/keyboard_icon.png
+SHA-256-Digest: HVWtoiSYaQgHg4UIrJgVdDJYxDl7PC4ZSiZdFmzhCLI=
+
+Name: assets/Default/SliderNode_Normal.png
+SHA-256-Digest: UhT1G9Bfxp4OYDPwsjDKC60aoEwb90UTLcZR51iq7Ds=
+
+Name: lib/arm64-v8a/libSDL2.so
+SHA-256-Digest: QTjq9A1Xjk5BRsB9+eyNyiGMN105XxC2CTqtmwZVOQM=
+
+Name: assets/locale/ja_jp.xml
+SHA-256-Digest: rWYU49Cgp6gG3IGvjRJzR40UJHszft6W23pNiDv3tCg=
+
+Name: assets/DroidSansFallback.ttf
+SHA-256-Digest: dqr+Nex7QhiHBKxFyOnNzAIylsn6HnhsjxTg/Bt8BI8=
+
+Name: assets/img/mouse_2btn.png
+SHA-256-Digest: ZcerpWy8NW8L0ujuSdSUtsxmUw81YbSdUNabazdGH2I=
+
+Name: assets/img/mouse_right_btn.png
+SHA-256-Digest: zFPRML5sWM5tMZuthGFfRMEVAJMbctH5MssBQxOGCsY=
+
+Name: lib/arm64-v8a/libgame.so
+SHA-256-Digest: 3tYRuQGM/KQl6X1fiqql3/gJxLrO+2a6d4Bjct21Kzg=
+
+Name: assets/ui/CheckListDialog.csb
+SHA-256-Digest: ZjDEL/pGbY8AKXIWW6SO8paTTDVYJ7y/mB/wxRwjry0=
+
+Name: assets/locale/zh_cn.xml
+SHA-256-Digest: gxyih+9znjdOkGxRSx8LA9j9EpIL0Lmcl/RxvY2tlfI=
+
+Name: assets/ui/TableView.csb
+SHA-256-Digest: ka90ERBGTG+qmEUUemprZiflZeVL78fbw5knqcqV1Uk=
+
+Name: assets/ui/BottomBarTextInput.csb
+SHA-256-Digest: o2dXV6cHF13mhmCUOf70RTq3b6OkghaM0fEx0eywLbs=
+
+Name: lib/armeabi-v7a/libffmpeg.so
+SHA-256-Digest: /Pw7c7x0PSuDPkzFZX5vD1QuM7GXq9lYvTETx80qTo8=
+
+Name: assets/ui/ListView.csb
+SHA-256-Digest: 6coOxi1yLuYHt+JwhSRzklIHFSn0xJgr6eESOU4AubM=
+
+Name: assets/ui/RecentListItem.csb
+SHA-256-Digest: F2p7D8jusLRX7Sx/UyMntKcFXJQSFl3naH1RpDNhRMs=
+
+Name: assets/ui/MainFileSelector.csb
+SHA-256-Digest: /Nr3QJeTCEtu3B6QO1uKOWPNHIjV6B66fSscBZcrtwI=
+
+Name: assets/ui/TextPairInput.csb
+SHA-256-Digest: 2Pj6VxWCeIXQHJpPKXWX1Ksq/RBbo4pUE6V+PZDoHSI=
+
+Name: assets/img/back_btn_on.png
+SHA-256-Digest: fHIcN5HyzwS4ThSukeR/Azk2bXWvcD9qqdvMeOzqDCU=
+
+Name: assets/img/CheckBox_Disable.png
+SHA-256-Digest: pEkedLIihqTTaRTeXiI0GLSdqU49uTWmy4Z+sgppQzM=
+
+Name: assets/ui/comctrl/SliderTextItem.csb
+SHA-256-Digest: MMjQ7zKFB57oUtaUMlIl/cJKETdvJV7SgZtcu6t62LQ=
+
+Name: assets/Default/Button_Normal.png
+SHA-256-Digest: IwvT2SW577MABlqRStG6t3Cwn31pHR7bsQu1tzzD400=
+
+Name: assets/img/triangle.png
+SHA-256-Digest: ppeCOkJBd7B1SAGteugKN6OVBw3yUuErlJbhYjn01Sc=
+
+Name: assets/Default/SliderNode_Press.png
+SHA-256-Digest: ezEkaMGQo2dWxk2k3G5ZaVOISpIN7tMGKNt8kpX/HIQ=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA-256-Digest: 3RfuwdIbw+yW5Jc6b5FOHyfKkISTBfeFvX2cABtV7u4=
+
+Name: assets/img/circle_arrow_normal.png
+SHA-256-Digest: Rpzo9G9ilx2CS9HcQqLD2FW4+b9dAm7eQlVxUOTuDgw=
+
+Name: assets/ui/comctrl/CheckBoxItem.csb
+SHA-256-Digest: m/MMKGXYOrKR+J0VSbpATH45h8q3BtDN5MByYNgoGO4=
+
+Name: res/drawable-hdpi-v4/close.png
+SHA-256-Digest: IKF7VZaRkLwlkIToLTg6NgnvrodQSLh9NoQhOZBsh+8=
+
+Name: assets/img/menu_press.png
+SHA-256-Digest: 2ZCU5uPIkdAvLsS0da7UCn1EEEgVolfvK4k+SPxa+MA=
+
+Name: assets/img/mouse_icon.png
+SHA-256-Digest: eUvOjMQ5isdwU25ez6LGjXnIiaFyxR74SjQaxXexNp0=
+
+Name: assets/img/touch2.png
+SHA-256-Digest: VJiZYzR+hmIosSUnRTcDil4pY+Bvya/2yiUQzLWEiAg=
+
+Name: assets/ui/ProgressBox.csb
+SHA-256-Digest: zyjjag9STXiBe9GTXsPcdx8iiL6CPYP9M6ty2JBPYhw=
+
+Name: assets/ui/MediaPlayerNavi.csb
+SHA-256-Digest: QcSnd69lH60A7SvAipZWJd9Ar3iV6TP7HKhXP+Wkk8Y=
+
+Name: assets/img/touch_icon.png
+SHA-256-Digest: JmQBvsCPxViX47KWWS0abynkJk/HXnACtpsSHccpSfE=
+
+Name: assets/img/circle_arrow_press.png
+SHA-256-Digest: Ue9gUbonYqGBYPL3DZNl1HDqfVCkVY2Rwl7omAMLiL0=
+
+Name: assets/ui/comctrl/SliderIconItem.csb
+SHA-256-Digest: gGjur7TXRlC22nRr3Jk4ce8riJ5cg/1MvaGD1467Sa8=
+
+Name: assets/img/syssetting_btn_on.png
+SHA-256-Digest: zgnHU2pCX99AhDhVxknyhlAaJ2jwC/URfml1EwjeN0c=
+
+Name: assets/ui/BottomBar.csb
+SHA-256-Digest: Q6jBazkc7RHjBXCfJubzJ4sTsGK2cul2gM2/cpPVVrw=
+
+Name: assets/Default/Slider_Back.png
+SHA-256-Digest: VSgiXlkJ+sl5Q1IZ1MmrN9tJ0I3PGniERP97qlZJGyw=
+
+Name: res/drawable-hdpi-v4/down_ico.png
+SHA-256-Digest: cwnLBHfHuuZ+r2UNr5js9HLbGL2De6XX6D4MKjWPOS8=
+
+Name: res/drawable-hdpi-v4/handle_up.9.png
+SHA-256-Digest: 0ofWnZTXWigsJJCjtli2Dp7j/khad04KuBTcL3Oq8ls=
+
+Name: assets/img/CheckBoxNode_Normal.png
+SHA-256-Digest: l3kjzJdQ2i91neT5trTL2Muv2tz2VWXPe7bG7peWPeQ=
+
+Name: assets/img/circle_white.png
+SHA-256-Digest: oSTzEUxlhfdRn5mgrff/f6q6l4Bm2S538mjGb9nsMBM=
+
+Name: assets/img/about_icon.png
+SHA-256-Digest: Fv1/QCTBnHLfYpqFFUFjwlGToQpGE32rVi+tBjpbRXU=
+
+Name: assets/img/Cancel_Normal.png
+SHA-256-Digest: ZNuJmcw8VqmspG6keuLOjQIDR3vNCdls6KN9d0DXMEg=
+
+Name: lib/arm64-v8a/libffmpeg.so
+SHA-256-Digest: vYnDfWog8xP+uu0k3BuXE97XbO9+ojlYAPdl6meChJo=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: m4RFx9osDaAXx2A3W+fGXBm75qeBkMiSdPby4l/746Y=
+
+Name: assets/img/menu_handler.png
+SHA-256-Digest: DW0ZbKV6PGQUUsGG3lAU38da7G0+ZuFYIuX/71cqxng=
+
+Name: assets/ui/help/ScreenModeTips.csb
+SHA-256-Digest: bWABQMUjR2VGLREsMFVJxiFGXwy1tAnY9nV12tGUj+o=
+
+Name: assets/locale/zh_tw.xml
+SHA-256-Digest: qeX8ng7xEPdbvOswE82EMarePLso1oY7TTk8jqRldJE=
+
+Name: res/drawable-hdpi-v4/sd_operate_step.png
+SHA-256-Digest: Sei7rKdaUXPXx99/fcIyDIKgg/mN7bAaXX317Agmv0c=
+
+Name: res/drawable-hdpi-v4/title_bg.png
+SHA-256-Digest: QZBhpaPMn5oGGti6LLzmU26BeN/mnnjOBbw9ZLFC9zQ=
+
+Name: assets/img/empty.png
+SHA-256-Digest: whU/d+EQh/yweK44Un+oO+8peR43AOMMyH/sRAWmbQ8=
+
+Name: assets/ui/comctrl/SelectListItem.csb
+SHA-256-Digest: uC6vF+Er23/ZzWJTpobPQWuXf741gwh8+0O+wI2UiQg=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA-256-Digest: CooQbSVq+6O9simFyzZGiJI04ry3NUJmyWcS7Cghrb8=
+
+Name: assets/ui/help/TouchModeTips.csb
+SHA-256-Digest: rxNYLBLrVzJgsikPkCIsK3m/jY28WpRANWzVplrQyZs=
+
+Name: assets/ui/help/AllTips.csb
+SHA-256-Digest: 1qNhGOC45znnf48O5BstEKeprDGlMYe2aEvJt2DrsDI=
+
+Name: assets/ui/ListItem.csb
+SHA-256-Digest: eB9yySNHRdOhxRusQnArUn4kAydel0JmVwOCoMBCN7E=
+
+Name: assets/img/circle_arrow.png
+SHA-256-Digest: eOT6/ikO8sjdC8Bam+YjORDIK8dj4+AxmNrA567rhKw=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: wcFF9noBB2oxl7LvM3kFwCqpOZ6G/rScDKxwAk8+jEQ=
+
+Name: assets/img/CheckBox_Normal.png
+SHA-256-Digest: c5toRY3FtklPcezpNuGdkb5lK097Xf8GkRAZjZntOPk=
+
+Name: assets/ui/NaviBar.csb
+SHA-256-Digest: 1jzWzhfTj3ifAYVbUQhTgjEyPozBlbB6i98dVH2NxuY=
+
+Name: assets/Default/Button_Disable.png
+SHA-256-Digest: YKjCIORlOzXZrFeACyTMCq6ek2XduEYEGqFfyUthAq4=
+
+Name: assets/locale/en_us.xml
+SHA-256-Digest: CkLqX5LTuipyHiYxL9xVdVciPG3Tw+wywh7V1GnFezY=
+
+Name: res/drawable-hdpi-v4/item_bg.9.png
+SHA-256-Digest: WVuTzwSFHlrGiMBZXHfTX0dJvcSbRo9Jo78IcevhA2o=
+
+Name: assets/img/CheckBoxNode_Press.png
+SHA-256-Digest: /wZdqGNQ9HyhoU7ICy3ZJqmA6If+x/4XC24Bw5+98gQ=
+
+Name: assets/img/right_triangle.png
+SHA-256-Digest: u91KqyUTyOy1Mt/gWSZ0qvAsQjFAIR05GfcPc1jf9Y0=
+
+Name: assets/ui/GameMenu.csb
+SHA-256-Digest: wbnfnlap5DnT6FMJyDmQBqQeGQ8KonBCaLollT7W5SA=
+
+Name: assets/ui/MediaPlayerBody.csb
+SHA-256-Digest: hY6kkRycLqOFGUmto0N8U9WtjeahqcGGl3AujnFq1wo=
+
+Name: assets/Default/SliderNode_Disable.png
+SHA-256-Digest: T3RNtrj3y2HQefYhzgjEY6yWS1X13NV3HJ9S846rV9A=
+
+Name: assets/ui/SelectList.csb
+SHA-256-Digest: D7VnYqPeIj672bQCzqyu5SsPAI8vgX+erCWwv3vxfcY=
+
+Name: res/raw/kirikiri2.txt
+SHA-256-Digest: UptFhn2TuVaVR4KvP0Lw1TbYVoJ6DLqIlVr003RIcMw=
+
+Name: assets/img/white.png
+SHA-256-Digest: C61xb1sLJxAhO9IpqXVoUHmONzRiOnMinwjpqykSgfw=
+
+Name: assets/img/menu_icon.png
+SHA-256-Digest: nHpvhf0lLV7YNB/pMmIb888GyIuvwnqxR5UYO6f2CEA=
+
+Name: classes.dex
+SHA-256-Digest: v9041zD4CP6EM791c0Rw9lVU4kKLzgREplF7ffmbzZ8=
+
+Name: assets/ui/MessageBox.csb
+SHA-256-Digest: n/G/ktFFore54RM+XTBvWzhTbgs0whWgeT98n6FsDcs=
+

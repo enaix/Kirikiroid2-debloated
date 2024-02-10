@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kirikiroid2 1.3.9*</string>
+    <string name="sysmenu_gamemenu">游戏菜单</string>
+    <string name="sysmenu_about">关于</string>
+    <string name="sysmenu_option">---</string>
+    <string name="sysmenu_globaloption">全局设置</string>
+    <string name="sysmenu_exit">退出</string>
+    <string name="msgbox_btn_ok">OK</string>
+    <string name="msgbox_btn_yes">是</string>
+    <string name="msgbox_btn_no">否</string>
+    <string name="msgbox_btn_thanks">致谢…</string>
+    <string name="preference_title">设置</string>
+    <string name="preference_use_opengl">使用OpenGL(不稳定)</string>
+    <string name="preference_force_update">强制更新屏幕</string>
+    <string name="preference_output_log">输出调试日志</string>
+    <string name="preference_remember_last_path">记住最后使用的路径</string>
+    <string name="preference_multi_draw_thread">使用多线程渲染</string>
+    <string name="preference_custom_option">自定义选项</string>
+    <string name="use_last_path">使用上次的路径：</string>
+    <string name="about_content">如果您遇到问题，请访问我们的网站来获得支持：</string>
+    <string name="retry">重试</string>
+    <string name="cancel">取消</string>
+    <string name="no_ads">loading时不显示广告</string>
+    <string name="keep_screen_alive">保持屏幕常亮</string>
+    <string name="debug_mode">开启调试模式</string>
+    <string name="crash_report">崩溃报告</string>
+    <string name="crash_report_msg">检测到崩溃，是否将崩溃数据(%d个文件)发送到服务器以便我们改善该应用？</string>
+    <string name="crash_report_sending">正在发送数据…</string>
+    <string name="filemenu_enter">进入</string>
+    <string name="filemenu_delete">删除</string>
+    <string name="filemenu_rename">重命名</string>
+    <string name="filemenu_setbg">设为背景</string>
+    <string name="usage_title">使用说明</string>
+    <string name="usage_text">"复制游戏数据到SD卡或者内部存储空间里，
+点击data.xp3或者xxx.exe
+访问bbs.avgfun.net来获得帮助。"</string>
+    <string name="ensure_delete">确实要删除吗？</string>
+</resources>
