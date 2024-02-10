@@ -1,6 +1,12 @@
 # Kirikiroid2-debloated
 Kirikiroid2 apk binaries without adware
 
+Original projects:
+
+https://github.com/zeas2/Kirikiroid2
+
+https://github.com/YuriSizuku/Kirikiroid2Yuri
+
 **APK files are in the Releases tab**
 
 ## Files
