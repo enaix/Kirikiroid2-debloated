@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="23" android:compileSdkVersionCodename="6.0-2438415" android:installLocation="auto" package="org.tvp.kirikiri2_yuri_10309" platformBuildVersionCode="25" platformBuildVersionName="7.1.1">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="29" android:compileSdkVersionCodename="10" android:installLocation="auto" package="org.tvp.kirikiri2_yuri_10309" platformBuildVersionCode="29" platformBuildVersionName="10">
     <uses-feature android:glEsVersion="0x00020000"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
     <uses-permission android:name="android.permission.INTERNET"/>
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
-    <uses-permission android:name="android.permission.GET_TASKS"/>
-    <application android:allowBackup="true" android:debuggable="true" android:icon="@drawable/ic_launcher" android:label="Kirikiroid2_yuri 1.3.9*" android:resizeableActivity="true">
-        <meta-data android:name="APP_ID" android:value="d27fd96b7892209ba9db9c8e119d3875"/>
-        <meta-data android:name="APP_PID" android:value="WAPS"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <application android:allowBackup="true" android:debuggable="true" android:icon="@drawable/ic_launcher" android:label="Kirikiroid2_yuri 1.4.0*" android:resizeableActivity="true" android:requestLegacyExternalStorage="true">
         <meta-data android:name="android.app.lib_name" android:value="game"/>
         <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/app_name" android:name="Kirikiroid2" android:screenOrientation="sensorLandscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:windowSoftInputMode="adjustPan">
             <intent-filter>
