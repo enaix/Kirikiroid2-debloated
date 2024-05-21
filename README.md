@@ -1,3 +1,5 @@
+![spy shark](/kiri2_debloat.png)
+
 # Kirikiroid2-debloated
 Kirikiroid2 apk binaries without adware
 
