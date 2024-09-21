@@ -1,4 +1,5 @@
 ![spy shark](/kiri2_debloat.png)
+<img align="left" src="https://img.shields.io/github/downloads/enaix/Kirikiroid2-Debloated/total?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fenaix%2FKirikiroid2-debloated%2Freleases%2F" alt="GitHub Release Downloads">
 
 # Kirikiroid2-debloated
 Kirikiroid2 apk binaries without adware
