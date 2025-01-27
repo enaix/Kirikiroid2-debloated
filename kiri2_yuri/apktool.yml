@@ -1,5 +1,5 @@
 version: 2.9.3
-apkFileName: Kirikiroid2_yuri_1.4.0.apk
+apkFileName: Kirikiroid2_yuri_1.4.1.apk
 isFrameworkApk: false
 usesFramework:
   ids:
@@ -11,8 +11,8 @@ packageInfo:
   forcedPackageId: 127
   renameManifestPackage: org.tvp.kirikiri2_yuri_debloated_10309
 versionInfo:
-  versionCode: 69
-  versionName: 1.4.0
+  versionCode: 70
+  versionName: 1.4.1
 resourcesAreCompressed: false
 sharedLibrary: false
 sparseResources: false

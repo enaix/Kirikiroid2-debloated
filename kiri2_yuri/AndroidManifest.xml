@@ -2,6 +2,7 @@
     <uses-feature android:glEsVersion="0x00020000"/>
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.VIBRATE"/>
     <application android:allowBackup="true" android:debuggable="true" android:icon="@drawable/ic_launcher" android:label="Kirikiroid2_yuri 1.4.0*" android:resizeableActivity="true" android:requestLegacyExternalStorage="true">

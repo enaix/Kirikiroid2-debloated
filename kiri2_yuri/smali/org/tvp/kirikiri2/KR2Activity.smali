@@ -2641,6 +2641,9 @@
 
     .prologue
     .line 1207
+    # ENXHACK Log all doSetSystemUiVisibility calls
+    # invoke-static {}, Lorg/tvp/kirikiri2/KR2Activity;->logStackTrace()V
+
     const/16 v0, 0x1706
 
     .line 1213
@@ -2932,6 +2935,7 @@
 
     .prologue
     .line 1218
+    # ENXHACK Remove nativeGetHideSystemButton() method check
     invoke-static {}, Lorg/tvp/kirikiri2/KR2Activity;->nativeGetHideSystemButton()Z
 
     move-result v0
@@ -3231,3 +3235,38 @@
     .line 428
     return-void
 .end method
+
+
+# ENXHACK Function to log trace
+# Code usage: invoke-static {}, Lorg/tvp/kirikiri2/KR2Activity;->logStackTrace()V
+# Search for ENXHACK tag in logs
+
+.method public static logStackTrace()V
+    .locals 3
+
+    .prologue
+    new-instance v0, Ljava/lang/Throwable;
+
+    invoke-direct {v0}, Ljava/lang/Throwable;-><init>()V
+
+    new-instance v1, Ljava/io/StringWriter;
+
+    invoke-direct {v1}, Ljava/io/StringWriter;-><init>()V
+
+    new-instance v2, Ljava/io/PrintWriter;
+
+    invoke-direct {v2, v1}, Ljava/io/PrintWriter;-><init>(Ljava/io/Writer;)V
+
+    invoke-virtual {v0, v2}, Ljava/lang/Throwable;->printStackTrace(Ljava/io/PrintWriter;)V
+
+    invoke-virtual {v1}, Ljava/io/StringWriter;->toString()Ljava/lang/String;
+
+    move-result-object v0
+
+    const-string v1, "ENXHACK"
+
+    invoke-static {v1, v0}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+
+    return-void
+.end method
+
