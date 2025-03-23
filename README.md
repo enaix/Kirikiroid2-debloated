@@ -26,6 +26,28 @@ Original Kirikiroid2 doesn't launch on modern Android versions, so the patched K
 
 * Changed package name to prevent app conflicts
 
+## Games compatibility list
+
+*For Kirikiroid2-yuri based forks*
+
+### Fate/stay night
+
+| Game V. | Version | Src | Runs | Issues | Comment |
+| :------ | :------ | :-- | :--: | :----- | :------ |
+| \[Realta Nua\] | **Prepatched (Type Moon Collection)** | GDrive (reddit) | 🟩 | Fate route missing? | More vanilla-ish experience |
+| \[Realta Nua\] Ultimate | **(v1.1.4 incl. hotfix) (Portable)** | nyaa | 🟩 | | Very feature-rich |
+| \[Realta Nua\] Ultimate | `...Ultimate Edition.7z` | GDrive (reddit) | 🟥 | Most of the Ultimate versions are uncompatible on android, unless stated in the readme | |
+
+### Fate/hollow ataraxia
+
+| Game V. | Version | Src | Runs | Issues | Comment |
+| :------ | :------ | :-- | :--: | :----- | :------ |
+| Original | `Fate Hollow Ataraxia.7z` | GDrive (reddit) | 🟩 |  |  |
+
+## Lazy todo
+
+- [ ] Find the source of the clicking issue during dialogue skip
+
 ## Files
 
 Original project files are located in `kiri2_src` and yuri project in `kiri2_yuri`. Unchanged `Kirikiroid2.smali` is in the repository root.
