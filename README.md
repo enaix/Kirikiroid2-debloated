@@ -44,6 +44,20 @@ Original Kirikiroid2 doesn't launch on modern Android versions, so the patched K
 | :------ | :------ | :-- | :--: | :----- | :------ |
 | Original | `Fate Hollow Ataraxia.7z` | GDrive (reddit) | 🟩 |  |  |
 
+## Basic troubleshooting
+
+#### The app crashes during startup or game launch
+
+Try the yuri version instead of the vanilla, since it contains patches to common issues.
+
+#### I get the wide string error during game launch
+
+Make sure that the game is listed in the compatibility list, some game modifications do not support Kirikiroid
+
+#### The files directory is empty
+
+Enable *All files access* permission in system settings
+
 ## Lazy todo
 
 - [ ] Find the source of the clicking issue during dialogue skip
