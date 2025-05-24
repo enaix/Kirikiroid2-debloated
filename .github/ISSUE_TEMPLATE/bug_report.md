@@ -21,3 +21,4 @@ assignees: ''
 
 - **Game version**: `Full game title with version goes here`
 - **Mods/enchancements**: `Is the game modded or enchanced?`
+- **Logs**: `Does the app show any logs?`
