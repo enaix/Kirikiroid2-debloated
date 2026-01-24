@@ -9,7 +9,7 @@
       <intent
         android:action="android.intent.action.MAIN"
         android:targetPackage="org.tvp.kirikiri2_yuri_debloated_10309"
-        android:targetClass="org.tvp.kirikiri2_yuri_10309.Kirikiroid2" />
-	<extra android:name="launch_mode" android:value="special_mode" />
+        android:targetClass="org.tvp.kirikiri2_yuri_10309.Kirikiroid2"
+	android:data="launch_ext" />
     </shortcut>
   </shortcuts>

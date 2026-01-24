@@ -3109,18 +3109,13 @@
 
     invoke-virtual {p0}, Lorg/tvp/kirikiri2_yuri_10309/Kirikiroid2;->getIntent()Landroid/content/Intent;
     move-result-object v1
-    
     if-eqz v1, :sd_card_logic_end  # intent (v1) is null
-    const-string v2, "launch_mode"
-    invoke-virtual {v1, v2}, Landroid/content/Intent;->hasExtra(Ljava/lang/String;)Z
-    move-result v3
-    if-eqz v3, :sd_card_logic_end  # no extra field
 
-    const-string v2, "launch_mode"
-    invoke-virtual {v1, v2}, Landroid/content/Intent;->getStringExtra(Ljava/lang/String;)Ljava/lang/String;
-    move-result-object v2
+    invoke-virtual {v1}, Landroid/content/Intent;->getDataString()Ljava/lang/String;
+    move-result-object v3
+    if-eqz v3, :sd_card_logic_end  # no data string
 
-    const-string v3, "special_mode"
+    const-string v2, "launch_ext"
     invoke-virtual {v3, v2}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
     move-result v3
 
