@@ -3086,7 +3086,7 @@
 .end method
 
 .method public onCreate(Landroid/os/Bundle;)V
-    .locals 2
+    .locals 4
     .param p1, "savedInstanceState"    # Landroid/os/Bundle;
 
     .prologue
@@ -3102,6 +3102,34 @@
 
     .line 299
     invoke-super {p0, p1}, Lorg/cocos2dx/lib/Cocos2dxActivity;->onCreate(Landroid/os/Bundle;)V
+
+    # ENXHACK Re-enable SD card permission check on startup
+    # We need to check if the activity was started from a shortcut
+    # ===================
+
+    invoke-virtual {p0}, Lorg/tvp/kirikiri2_yuri_10309/Kirikiroid2;->getIntent()Landroid/content/Intent;
+    move-result-object v1
+    
+    if-eqz v1, :sd_card_logic_end  # intent (v1) is null
+    const-string v2, "launch_mode"
+    invoke-virtual {v1, v2}, Landroid/content/Intent;->hasExtra(Ljava/lang/String;)Z
+    move-result v3
+    if-eqz v3, :sd_card_logic_end  # no extra field
+
+    const-string v2, "launch_mode"
+    invoke-virtual {v1, v2}, Landroid/content/Intent;->getStringExtra(Ljava/lang/String;)Ljava/lang/String;
+    move-result-object v2
+
+    const-string v3, "special_mode"
+    invoke-virtual {v3, v2}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+    move-result v3
+
+    if-eqz v3, :sd_card_logic_end  # extra != special_mode
+
+    # Open the dialog
+    invoke-virtual {p0}, Lorg/tvp/kirikiri2/KR2Activity;->SDCardDialog()V
+    :sd_card_logic_end
+    # ===================
 
     .line 309
     new-instance v0, Ljava/lang/StringBuilder;
@@ -3270,3 +3298,91 @@
     return-void
 .end method
 
+
+# ENXHACK Original experimental SD card hack
+
+.method public SDCardDialogLegacy()V
+    .locals 7
+    .prologue
+    # p0 -> this
+
+    sget v0, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    const/16 v1, 0x15  # LOLLIPOP
+
+    if-lt v0, v1, :label_exit
+
+    #sget v0, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    #const/16 v1, 0xTODO  # ???
+
+    #if-lt v0, v1, :cond_lollipop
+
+    # OS <= ??? TOOD
+    # ...
+    #goto :label_exit
+
+    :cond_lollipop   # LOLLIPOP <= OS < ??? TODO
+
+    # Old intent hack
+    # ===============
+    invoke-static {p0}, Lorg/tvp/kirikiri2/KR2Activity;->getExtSdCardPaths(Landroid/content/Context;)[Ljava/lang/String;
+    move-result-object v2
+    array-length v3, v2  # v3 -> len
+    const/4 v4, 0x0      # v4 -> i
+    
+    :loop_sd_path # loop start
+    if-ge v4, v3, :label_exit  # check i > len
+    aget-object v5, v2, v4  # v5 -> path
+
+    invoke-virtual {p0, v5}, Lorg/tvp/kirikiri2/KR2Activity;->isWritableNormalOrSaf(Ljava/lang/String;)Z
+    move-result v6  # v6 -> is_writable
+    if-nez v6, :loop_next
+
+    # Show the dialogue
+    invoke-virtual {p0, v5}, Lorg/tvp/kirikiri2/KR2Activity;->guideDialogForLEXA(Ljava/lang/String;)V
+
+    :loop_next
+    add-int/lit8 v4, v4, 0x1   # i++
+    goto :loop_sd_path
+
+
+    :label_exit   # OS < LOLLIPOP
+    return-void
+.end method
+
+
+# ENXHACK New SD card hack implementation
+.method public SDCardDialog()V
+    .locals 3
+    .prologue
+    # p0 -> this
+
+    sget v0, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    const/16 v1, 0x15  # LOLLIPOP
+
+    if-lt v0, v1, :label_exit
+
+    #sget v0, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    #const/16 v1, 0xTODO  # ???
+
+    #if-lt v0, v1, :cond_lollipop
+
+    # OS <= ??? TOOD
+    # ...
+    #goto :label_exit
+
+    :cond_lollipop   # LOLLIPOP <= OS < ??? TODO
+
+    # Old intent hack
+    # ===============
+    const-string v2, "Please select the directory"
+    
+    # Show the dialogue
+    invoke-static {v2}, Lorg/tvp/kirikiri2/KR2Activity;->guideDialogForLEXA(Ljava/lang/String;)V
+
+    :label_exit   # OS < LOLLIPOP
+    return-void
+.end method

@@ -1,0 +1,15 @@
+  <shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+      android:shortcutId="launch_ext"
+      android:enabled="true"
+      android:icon="@drawable/ic_launcher"
+      android:shortcutShortLabel="@string/launch_ext"
+      android:shortcutLongLabel="@string/launch_ext_long"
+      android:shortcutDisabledMessage="@string/launch_ext_disabled">
+      <intent
+        android:action="android.intent.action.MAIN"
+        android:targetPackage="org.tvp.kirikiri2_yuri_debloated_10309"
+        android:targetClass="org.tvp.kirikiri2_yuri_10309.Kirikiroid2" />
+	<extra android:name="launch_mode" android:value="special_mode" />
+    </shortcut>
+  </shortcuts>

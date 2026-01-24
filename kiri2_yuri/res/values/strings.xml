@@ -36,4 +36,7 @@
 点击data.xp3或者xxx.exe
 访问bbs.avgfun.net来获得帮助。"</string>
     <string name="ensure_delete">确实要删除吗？</string>
+    <string name="launch_ext">Request storage permission</string>
+    <string name="launch_ext_long">Launch game from external storage</string>
+    <string name="launch_ext_disabled">Request storage permission (N/A)</string>
 </resources>
