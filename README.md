@@ -1,5 +1,5 @@
 > [!CAUTION]
-> **This project is not related to kirikiroid2.com! For more information see https://github.com/enaix/Kirikiroid2-debloated/issues/12**
+> **This project is not related to kirikiroid2.com! For more information see [issue 12](https://github.com/enaix/Kirikiroid2-debloated/issues/12)**
 
 ![spy shark](/kiri2_debloat.png)
 <img align="left" src="https://img.shields.io/github/downloads/enaix/Kirikiroid2-Debloated/total?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fenaix%2FKirikiroid2-debloated%2Freleases%2F" alt="GitHub Release Downloads">
