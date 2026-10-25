@@ -69,3 +69,7 @@ Enable *All files access* permission in system settings
 
 Original project files are located in `kiri2_src` and yuri project in `kiri2_yuri`. Unchanged `Kirikiroid2.smali` is in the repository root.
 
+### Patches
+
+See [patches folder](patches/)
+
